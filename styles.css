@@ -1,17 +1,13 @@
 
 /* Your CSS Code here. */
 table {
-	text-align: left;
-	border: 2px solid black;
-	border-collapse: collapse;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
-thead {
-	
-}
-th {
-	border: 2px solid black;
-}
-td {
-	border: 2px solid black;
-	text-align: right;
+
+td, th {
+  border: 2px solid #dddddd;
+  text-align: right;
+  padding: 8px;
 }
